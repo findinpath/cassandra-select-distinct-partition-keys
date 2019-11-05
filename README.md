@@ -6,6 +6,10 @@ This is a simple showcase on how to select all the distinct partition keys
 from a Cassandra table.
 
 
+There is also a corresponding [blog](https://www.findinpath.com/distinct-cassandra-partition-keys/) 
+post for this project.
+
+
 The way to select a page of distinct partition keys is summarized in the following code snippet:
 
 ```java
